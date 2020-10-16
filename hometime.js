@@ -1,5 +1,3 @@
-console.log('cool');
-
 var partiallyInViewport = function (elem)
 {
 	var bounding = elem.getBoundingClientRect();
